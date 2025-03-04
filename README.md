@@ -1,6 +1,6 @@
 # PharmacyFinder
 
-PharmacyFinder, kullanıcıların en yakın eczaneleri hızlı ve kolay bir şekilde bulmasını sağlayan bir mobil uygulamadır. Uygulama, eczane konumları, çalışma saatleri ve iletişim bilgileri gibi detayları içeren bir API hizmeti kullanmaktadır.
+PharmacyFinder, kullanıcıların en yakın eczaneleri hızlı ve kolay bir şekilde bulmasını sağlayan bir React Native mobil uygulamasıdır. Uygulama, eczane konumları, çalışma saatleri ve iletişim bilgileri gibi detayları içeren bir API hizmeti kullanmaktadır.
 
 ## Özellikler
 
